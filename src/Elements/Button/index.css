@@ -1,0 +1,25 @@
+.btn {
+  background-color: #028fff;
+  text-transform: capitalize;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #028fff;
+  color: #ffffff;
+}
+/* ButtonStyles.css */
+.button {
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border: 1px solid global(colors(secondary));
+}
+
+.button-with-typo {
+  background: global(colors(secondary));
+  font-weight: 600;
+  font-size: 14px;
+  white-space: nowrap;
+  padding: 0.5rem 0.9rem;
+}
+
+/* Add other variants as needed */
